@@ -1,0 +1,40 @@
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.venv/
+env/
+venv/
+ENV/
+*.egg
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Data files (don’t commit raw/local databases or CSVs unless needed)
+data/*.db
+*.sqlite
+*.sqlite3
+*.csv
+
+# Keep processed CSVs in reports/figures
+!reports/figures/*.csv
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# IDE/Editor settings
+.vscode/
+.idea/
+*.iml
