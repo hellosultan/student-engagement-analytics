@@ -1,0 +1,5 @@
+grade_band,n_students,avg_attendance_pct,avg_late_pct,avg_activities,at_risk_rate
+A,111,75.61,23.86,2.17,0.018
+B,376,74.74,25.44,2.14,0.016
+C,386,74.07,25.11,2.16,0.005
+D/F,127,73.97,25.01,2.19,0.039
